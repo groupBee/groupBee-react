@@ -1,0 +1,20 @@
+/* DatePicker.css */
+.react-datepicker {
+    font-size: 0.9rem; /* 전체 폰트 크기 조정 */
+
+}
+
+
+.react-datepicker__day--selected,
+.react-datepicker__day--keyboard-selected {
+    background-color: #ffb121; /* 선택된 날짜 배경 색상 */
+    color: white; /* 선택된 날짜 텍스트 색상 */
+}
+
+.react-datepicker__day:hover {
+    background-color: white; /* 호버 시 날짜 배경 색상 */
+    color: #ffb121; /* 호버 시 날짜 텍스트 색상 */
+}
+
+
+

@@ -6,7 +6,7 @@ import Send from "./send";
 import List from "./list";
 import Calendar from "./calendar";
 import Board from "./board";
-import Book from "./book";
+import Book from "./book/Book.jsx";
 import Hr from "./hr";
 import Mypage from "./mypage";
 
